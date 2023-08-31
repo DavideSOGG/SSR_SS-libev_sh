@@ -10,7 +10,7 @@ bash <(curl -sL https://raw.githubusercontent.com/DavideSOGG/SSR_SS-libev_sh/mai
 使用前请先检查脚本与系统兼容性，推荐CentOS7及同时期系统使用。
 
 ---
-SS，SSR，V2Ray，Clash等科学上网Android与Windows客户端合集
+SS/SSR/V2Ray/Clash等工具Android与Windows客户端合集
 ===
 ######Android版######
 
