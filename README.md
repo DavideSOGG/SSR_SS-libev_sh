@@ -2,5 +2,5 @@
 使用教程 任选其一
 ===
 ```BASH
-bash <(curl -sL https://github.com/DavideSOGG/SSR_SS-libev_sh/tiziblog_ss_libev.sh)
+bash <(curl -sL https://raw.githubusercontent.com/DavideSOGG/SSR_SS-libev_sh/main/tiziblog_ss_libev.sh)
 ```
