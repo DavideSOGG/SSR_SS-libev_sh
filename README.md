@@ -1,4 +1,4 @@
-# SSR以及SS-libev一键部署脚本
+# SSR以及SS-libev一键部署脚本（所有内容均来源于网络）
 使用教程 任选其一
 ===
 ```BASH
@@ -64,6 +64,10 @@ https://github.com/Fndroid/clash_for_windows_pkg/releases
 ClashR:
 https://github.com/BoyceLig/ClashR_for_Windows/releases
 
+---
+附Shadowsocks终极指南（自行甄别实用性 部分内容已过时）
+===
+https://shadowsockshelp.github.io/
 Trojan-QT5:
 https://github.com/charlieethan/Trojan-Qt5/releases
 
